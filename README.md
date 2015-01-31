@@ -1,4 +1,4 @@
-# Roots Coding Standards
+# Roots Coding and Contributing Guidelines
 
 ## PHP
 
