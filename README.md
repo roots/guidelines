@@ -13,3 +13,17 @@ Additional rules:
 * Use `Roots\` namespace
 * Use short array syntax
 * Use short echo syntax
+
+You can check if your contribution passes the styleguide by installing [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and running the following in your project directory:
+
+```bash
+phpcs --standard=ruleset.xml --extensions=php -n -s .
+```
+
+## JavaScript
+
+Every JavaScript contribution is run against the [Google JavaScript Styleguide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml). You can check if your contribution passes the styleguide by installing [JSCS](http://jscs.info/) and running the following in your project directory:
+
+```bash
+npm run jscs
+```
