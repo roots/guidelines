@@ -17,7 +17,7 @@ Additional rules:
 You can check if your contribution passes the styleguide by installing [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and running the following in your project directory:
 
 ```bash
-phpcs --standard=ruleset.xml --extensions=php -n -s .
+phpcs --standard=ruleset.xml --extensions=php --ignore=node_modules,bower_components,vendor -n -s .
 ```
 
 ## JavaScript
