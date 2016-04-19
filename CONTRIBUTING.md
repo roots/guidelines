@@ -16,7 +16,7 @@ The issue tracker is the preferred channel for [bug reports](#bugs),
 requests](#pull-requests), but please respect the following restrictions:
 
 * Please **do not** use the issue tracker for personal support requests (use the
-  [Roots Discourse](https://discourse.roots.io/)).
+  [Roots Discourse](https://discourse.roots.io/) to ask the Roots Community for help, or if you want the Roots Team to dedicate some time to your issue, we [offer our services](https://roots.io/services/) as well).
 
 * Please **do not** derail or troll issues. Keep the discussion on topic and
   respect the opinions of others.
